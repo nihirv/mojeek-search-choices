@@ -25,11 +25,11 @@ You can use Search Choices to hop from Mojeek to other search providers, adding 
 
 **How can I find a favicon?**
 
-RESPONSE.
+Many search providers will have their favicon at /favicon.ico; for example both [Mojeek](https://www.mojeek.com/favicon.ico) and [Google](https://www.google.com/favicon.ico) provide their favourite icon in this way. If you have any issues finding this then please get in contact via the [contact page](https://www.mojeek.com/about/contact) or [Community](https://community.mojeek.com/) and we'll do our best to help you out.
 
 **How can I find a search string?**
 
-RESPONSE.
+If you perform a search using the search provider you wish to add, the search string should appear appended to the URL. For example if you search for ```query``` on IMDb the resulting URL is ```https://www.imdb.com/find/?q=query```; you then simply need to replace your search term with {searchTerms} in order to make it ready for submission. If the URL contains other paramters such as ```&device=iPhone``` then please remove these before submitting. 
 
 **What is unlikely to be accepted?**
 
