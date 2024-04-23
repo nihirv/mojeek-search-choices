@@ -23,6 +23,14 @@ Search Choices operate similarly to bangs, but in their standard implementation 
 
 You can use Search Choices to hop from Mojeek to other search providers, adding to the diversity of sources that you have available to you; yu can also use them to easily check the view of the web you get from Mojeek versus these other options. 
 
+**How can I find a favicon?**
+
+RESPONSE.
+
+**How can I find a search string?**
+
+RESPONSE.
+
 **What is unlikely to be accepted?**
 
 Search Choices should not replicate like-for-like the functionality of a Search Choice already in the library. They should also not have a name which is clear and not misleading, or representing a value judgement. They need to have a functioning search string which Mojeek can send queries to, and will not be accepted if they search across x-rated adult content, or other content which would not be suitable to send your average Mojeek user to (i.e. gore, violence, scams).
