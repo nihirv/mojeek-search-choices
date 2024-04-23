@@ -8,6 +8,8 @@ To submit a Search Choice can either open an Issue, for which there will be a se
 - a favicon for the Search Choice, which will appear to the left of its name in Preferences
 - a category for the Search Choice; these will build out as this repository becomes more used
 
+<img src="./assets/contributing_guide_image.png">
+
 ## Criteria for Acceptance
 In order to be a candidate for Search Choices, a Choice must:
 - not replicate like-for-like the functionality of a Search Choice already in the library
