@@ -21,7 +21,7 @@ Search Choices operate similarly to bangs, but in their standard implementation 
 
 **How can I use Search Choices?**
 
-. 
+You can use Search Choices to hop from Mojeek to other search providers, adding to the diversity of sources that you have available to you; yu can also use them to easily check the view of the web you get from Mojeek versus these other options. 
 
 **What is unlikely to be accepted?**
 
