@@ -2,9 +2,9 @@
 
 # Search Choices
 
-[Search Choices](https://blog.mojeek.com/2022/02/search-choices-enable-freedom-to-seek.html) gives you quick and easy access to results from other search and metasearch engines from the Search Engine Results Page. 
-
 > Informational diversity is vital to a healthy society and economy. When most search results are dominated by one company, we are led down pathways determined by engineering and algorithmic decisions made by just a few people.
+
+[Search Choices](https://blog.mojeek.com/2022/02/search-choices-enable-freedom-to-seek.html) are a set of buttons that give you quick and easy access to results from other search and metasearch engines from the Search Engine Results Page. 
 
 This repository is a place where you can submit a favicon and search schema for a new Search Choice, if it is added in then it will be accessible by all those who use this functionality on Mojeek. You can also categorise this (search, metasearch, news, entertainment etc.) to help other users understand what your Choice is useful for finding. 
 

@@ -1,8 +1,8 @@
 # FAQS
 
-**What is Search Choices for?**  
+**What are Search Choices for?**  
 
-Search Choices are pathways from the Mojeek search engine to other search providers, be they search engines (Mojeek, Google, Bing), metasearch engines (DuckDuckGo, Ecosia, Startpage), and specific resource searches (IMDb, Indeed).
+Search Choices are pathways from the Mojeek search engine to other search providers, be they search engines (Mojeek, Google, Bing), metasearch engines (DuckDuckGo, Ecosia, Startpage), or specific resource searches (IMDb, Indeed).
 
 From the Mojeek Search Engine Results Pages you can:
 
@@ -21,7 +21,7 @@ Search Choices operate similarly to bangs, but in their standard implementation 
 
 **How can I use Search Choices?**
 
-You can use Search Choices to hop from Mojeek to other search providers, adding to the diversity of sources that you have available to you; yu can also use them to easily check the view of the web you get from Mojeek versus these other options. 
+You can use Search Choices to hop from Mojeek to other search providers, adding to the diversity of sources that you have available to you; you can also use them to easily compare results between Mojeek and other providers.
 
 **How can I find a favicon?**
 
