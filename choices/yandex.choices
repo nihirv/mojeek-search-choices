@@ -1,0 +1,4 @@
+title: Yandex
+icon: yandex.jpeg
+url: https://yandex.com/search/?text={searchTerms}
+default: false
