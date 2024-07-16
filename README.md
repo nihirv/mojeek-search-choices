@@ -6,7 +6,7 @@
 
 [Search Choices](https://blog.mojeek.com/2022/02/search-choices-enable-freedom-to-seek.html) are a set of buttons that give you quick and easy access to results from other search and metasearch engines from the Search Engine Results Page. 
 
-This repository is a place where you can submit a favicon and search schema for a new Search Choice, if it is added in then it will be accessible by all those who use this functionality on Mojeek. You can also categorise this (search, metasearch, news, entertainment etc.) to help other users understand what your Choice is useful for finding. 
+This repository is a place where you can submit a favicon and search schema for a new Search Choice, if it is added in then it will be accessible by all those who use this functionality on Mojeek. 
 
 Please read the eligibility guidelines in [CONTRIBUTING.md](./CONTRIBUTING.md) before raising an Issue or submitting a Pull Request in order to add your Search Choice. **Not all submissions will make it onto the Search Choices list.** 
 
