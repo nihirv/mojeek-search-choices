@@ -1,0 +1,4 @@
+title: Bing
+icon: bing.ico
+url: https://www.bing.com/search?q={searchTerms}
+default: false
