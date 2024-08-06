@@ -1,4 +1,5 @@
 title: Yep
 icon: yep.ico
 url: https://yep.com/web?q={searchTerms}
+category: web search
 default: false

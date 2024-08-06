@@ -1,4 +1,5 @@
 title: MetaGer
 icon: metager.ico
 url: https://metager.org/meta/meta.ger3?eingabe={searchTerms}
+category: web search
 default: false
