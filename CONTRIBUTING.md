@@ -5,7 +5,7 @@ To submit a Search Choice can either open an Issue, for which there will be a se
 ### The following items will be required in order to submit a Search Choice:
 - the name of the Search Choice, it is best here to just use the brand or domain name of the website in question
 - the search string which will be used to pass a query from Mojeek to the Choice i.e. ```https://www.bing.com/search?q={searchTerms}```
-- a category for the search; currently the options are web search, entertainment, news, shopping, tech, translation, and research - [get in touch](https://www.mojeek.com/about/contact)/raise an issue if you think more should be added
+- a category for the search; currently the options are web search, entertainment, news, shopping, tech, and research - [get in touch](https://www.mojeek.com/about/contact)/raise an issue if you think more should be added
 - a favicon for the Search Choice, which will appear to the left of its name in Preferences
 
 <img src="./assets/contributing_guide_image.png">
