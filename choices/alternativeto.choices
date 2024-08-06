@@ -1,0 +1,5 @@
+title: AlternativeTo
+icon: alternativeto.png
+url: https://alternativeto.net/browse/search/?q={searchTerms}
+category: tech
+default: false
