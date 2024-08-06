@@ -1,4 +1,5 @@
 title: Brave
 icon: brave.png
 url: https://search.brave.com/search?q={searchTerms}
+category: web search
 default: true

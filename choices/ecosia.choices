@@ -1,4 +1,5 @@
 title: Ecosia
 icon: ecosia.ico
 url: https://www.ecosia.org/search?q={searchTerms}
+category: web search
 default: true

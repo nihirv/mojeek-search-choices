@@ -1,4 +1,5 @@
 title: You
 icon: you.webp
 url: https://you.com/search?q={searchTerms}
+category: web search
 default: false
