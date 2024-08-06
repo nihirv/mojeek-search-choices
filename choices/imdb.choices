@@ -1,0 +1,5 @@
+title: IMDb
+icon: imdb.jpg
+url: https://www.imdb.com/find/?q={searchTerms}
+category: entertainment
+default: false

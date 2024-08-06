@@ -1,0 +1,5 @@
+title: eBay
+icon: ebay.ico
+url: https://www.ebay.com/sch/i.html?_nkw={searchTerms}
+category: shopping
+default: false

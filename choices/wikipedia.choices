@@ -1,0 +1,5 @@
+title: Wikipedia
+icon: wikipedia.png
+url: https://en.wikipedia.org/w/index.php?title=Special:Search&search={searchTerms}
+category: research
+default: false
