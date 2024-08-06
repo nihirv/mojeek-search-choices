@@ -13,6 +13,9 @@ icon: [where can the favicon for the named engine be found]
 _If you are confused about what shold go in URL, undertake a search on the engine/meta and replace your query with {searchTerms}_
 url: [the URL with {searchTerms} in place of where a query would go]
 
+_The current categories are web search / entertainment / news / shopping / tech / translation / research_
+category: [chosen category for search]
+
 ---
 
 [] - I have read [CONTRIBUTING.md](./CONTRIBUTING.md)
