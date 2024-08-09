@@ -1,0 +1,4 @@
+title: Pixabay
+icon: pixabay.png
+url: https://pixabay.com/images/search/{searchTerms}/
+default: false

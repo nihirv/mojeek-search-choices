@@ -1,0 +1,4 @@
+title: Flickr
+icon: flickr.png
+url: https://flickr.com/search/?text={searchTerms}
+default: false

@@ -1,0 +1,4 @@
+title: Pexels
+icon: pexels.png
+url: https://www.pexels.com/search/{searchTerms}/
+default: false

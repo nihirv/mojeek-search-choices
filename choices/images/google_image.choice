@@ -1,0 +1,4 @@
+title: Google Image
+icon: google.ico
+url: https://www.google.com/search?q={searchTerms}&udm=2
+default: false
