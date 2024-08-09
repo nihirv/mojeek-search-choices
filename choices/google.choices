@@ -1,5 +1,0 @@
-title: Google
-icon: google.ico
-url: https://www.google.com/search?q={searchTerms}
-category: web search
-default: false

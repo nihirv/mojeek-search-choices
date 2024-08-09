@@ -1,5 +1,0 @@
-title: Bing
-icon: bing.ico
-url: https://www.bing.com/search?q={searchTerms}
-category: web search
-default: false

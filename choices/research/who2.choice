@@ -1,0 +1,4 @@
+title: Who2
+icon: who2.png
+url: https://www.who2.com/?s={searchTerms}
+default: false

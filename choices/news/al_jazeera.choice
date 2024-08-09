@@ -1,0 +1,4 @@
+title: Al Jazeera
+icon: al_jazeera.png
+url: https://www.aljazeera.com/search/{searchTerms}
+default: false

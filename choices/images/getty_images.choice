@@ -1,0 +1,4 @@
+title: Getty Images
+icon: getty_images.png
+url: https://www.gettyimages.com/search/2/image?phrase={searchTerms}
+default: false

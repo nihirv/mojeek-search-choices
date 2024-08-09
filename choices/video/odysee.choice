@@ -1,0 +1,4 @@
+title: Odysee
+icon: odysee.png
+url: https://odysee.com/$/search?q={searchTerms}
+default: false

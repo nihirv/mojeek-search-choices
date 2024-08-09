@@ -1,5 +1,0 @@
-title: DuckDuckGo
-icon: ddg.png
-url: https://duckduckgo.com/?q={searchTerms}
-category: web search
-default: false

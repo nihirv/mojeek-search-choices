@@ -1,0 +1,4 @@
+title: HowStuffWorks
+icon: how_stuff_works.png
+url: https://s.howstuffworks.com/serp?q={searchTerms}
+default: false

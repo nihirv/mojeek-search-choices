@@ -1,0 +1,4 @@
+title: Unsplash
+icon: unsplash.png
+url: https://unsplash.com/s/photos/{searchTerms}
+default: false

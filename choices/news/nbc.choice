@@ -1,0 +1,4 @@
+title: NBC
+icon: nbc.png
+url: https://www.nbcnews.com/search/?q={searchTerms}
+default: false

@@ -1,0 +1,4 @@
+title: DuckDuckGo
+icon: ddg.png
+url: https://duckduckgo.com/?q={searchTerms}
+default: false

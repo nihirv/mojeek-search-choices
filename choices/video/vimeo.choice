@@ -1,0 +1,4 @@
+title: Vimeo
+icon: vimeo.png
+url: https://vimeo.com/search?q={searchTerms}
+default: false

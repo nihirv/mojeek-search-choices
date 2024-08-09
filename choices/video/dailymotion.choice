@@ -1,0 +1,4 @@
+title: DailyMotion
+icon: dailymotion.png
+url: https://www.dailymotion.com/search/{searchTerms}/videos
+default: false

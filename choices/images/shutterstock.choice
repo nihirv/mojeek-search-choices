@@ -1,0 +1,4 @@
+title: Shutterstock
+icon: shutterstock.png
+url: https://www.shutterstock.com/search/{searchTerms}
+default: false

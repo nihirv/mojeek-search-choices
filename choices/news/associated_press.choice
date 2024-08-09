@@ -1,0 +1,4 @@
+title: Associated Press
+icon: associated_press.png
+url: https://www.ap.org/?s={searchTerms}
+default: false

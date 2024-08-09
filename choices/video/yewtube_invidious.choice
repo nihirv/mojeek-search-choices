@@ -1,0 +1,4 @@
+title: Yewtube/Invidious 
+icon: invidious.png
+url: https://yewtu.be/search?q={searchTerms}
+default: false

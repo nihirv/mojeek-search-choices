@@ -1,0 +1,4 @@
+title: Encyclopedia.com
+icon: encyclopedia.jpg
+url: https://www.encyclopedia.com/gsearch?q={searchTerms}
+default: false

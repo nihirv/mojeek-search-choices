@@ -1,0 +1,4 @@
+title: CNN
+icon: cnn.png
+url: https://edition.cnn.com/search?q={searchTerms}
+default: false

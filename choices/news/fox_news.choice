@@ -1,0 +1,4 @@
+title: Fox News
+icon: fox_news.png
+url: https://www.foxnews.com/search-results/search?q={searchTerms}
+default: false

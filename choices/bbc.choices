@@ -1,5 +1,0 @@
-title: BBC
-icon: bbc.png
-url: https://www.bbc.co.uk/search?q={searchTerms}
-category: news
-default: false

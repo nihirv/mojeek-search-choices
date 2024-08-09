@@ -1,0 +1,4 @@
+title: Encyclopedia of Life
+icon: encyclopedia_of_life.png
+url: https://eol.org/search?utf8=%E2%9C%93&q={searchTerms}
+default: false

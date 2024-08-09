@@ -1,0 +1,4 @@
+title: Library of Congress
+icon: library_of_congress.png
+url: https://www.loc.gov/search/?in=&q={searchTerms}
+default: false

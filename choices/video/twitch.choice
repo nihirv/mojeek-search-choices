@@ -1,0 +1,4 @@
+title: Twitch 
+icon: twitch.png
+url: https://www.twitch.tv/search?term={searchTerms}
+default: false

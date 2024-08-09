@@ -1,0 +1,4 @@
+title: Openverse
+icon: openverse.png
+url: https://openverse.org/search?q={searchTerms}
+default: false
