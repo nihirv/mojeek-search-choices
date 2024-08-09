@@ -1,0 +1,4 @@
+title: Smithsonian
+icon: smithsonian.png
+url: https://www.si.edu/search?edan_q={searchTerms}
+default: false

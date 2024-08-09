@@ -1,0 +1,4 @@
+title: Stanford Encyclopedia of Philosophy
+icon: stanford_philosophy.png
+url: https://plato.stanford.edu/search/searcher.py?query={searchTerms}
+default: false

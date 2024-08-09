@@ -1,0 +1,4 @@
+title: Encyclopedia Britannica
+icon: britannica.png
+url: https://www.britannica.com/search?query={searchTerms}
+default: false
