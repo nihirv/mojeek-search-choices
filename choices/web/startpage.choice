@@ -1,5 +1,4 @@
 title: Startpage
 icon: startpage.png
 url: https://www.startpage.com/sp/search?q={searchTerms}
-category: web search
 default: true

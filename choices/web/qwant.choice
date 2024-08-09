@@ -1,5 +1,4 @@
 title: Qwant
 icon: qwant.ico
 url: https://www.qwant.com/?q={searchTerms}
-category: web search
 default: false

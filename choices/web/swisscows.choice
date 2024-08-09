@@ -1,5 +1,4 @@
 title: Swisscows
 icon: swisscows.png
 url: https://swisscows.com/en/web?query={searchTerms}
-category: web search
 default: false
