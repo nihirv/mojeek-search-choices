@@ -1,0 +1,4 @@
+title: Yandex Video 
+icon: yandex.jpeg
+url: https://yandex.com/video/search?text={searchTerms}
+default: false

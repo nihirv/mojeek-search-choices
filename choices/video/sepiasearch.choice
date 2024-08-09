@@ -1,0 +1,4 @@
+title: SepiaSearch
+icon: sepiasearch.png
+url: https://sepiasearch.org/search?search={searchTerms}
+default: false

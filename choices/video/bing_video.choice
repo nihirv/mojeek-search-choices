@@ -1,0 +1,4 @@
+title: Bing Video
+icon: bing.ico
+url: https://www.bing.com/videos/search?q={searchTerms}
+default: false

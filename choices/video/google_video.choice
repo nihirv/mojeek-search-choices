@@ -1,0 +1,4 @@
+title: Google Video
+icon: google.ico
+url: https://www.google.com/search?q={searchTerms}&tbm=vid
+default: false
