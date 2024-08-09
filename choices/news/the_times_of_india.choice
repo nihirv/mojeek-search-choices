@@ -1,0 +1,4 @@
+title: The Times of India
+icon: times_of_india.png
+url: https://timesofindia.indiatimes.com/topic/{searchTerms}
+default: false

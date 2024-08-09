@@ -1,0 +1,4 @@
+title: People
+icon: people.png
+url: https://people.com/search?q={searchTerms}
+default: false

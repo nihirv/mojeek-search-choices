@@ -1,0 +1,4 @@
+title: The Daily Mail
+icon: daily_mail.png
+url: https://www.dailymail.co.uk/home/search.html?sel=site&searchPhrase={searchTerms}
+default: false

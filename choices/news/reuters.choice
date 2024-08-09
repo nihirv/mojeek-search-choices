@@ -1,0 +1,4 @@
+title: Reuters 
+icon: reuters.png
+url: https://www.reuters.com/site-search/?query={searchTerms}
+default: false

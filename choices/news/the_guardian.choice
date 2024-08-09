@@ -1,0 +1,4 @@
+title: The Guardian
+icon: the_guardian.png
+url: https://www.google.co.uk/search?as_q={searchTerms}&as_sitesearch=www.theguardian.com
+default: false
