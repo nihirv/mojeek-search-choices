@@ -1,0 +1,4 @@
+title: Deepfind
+icon: deepfind.ico
+url: https://www.deepfind.co/?q={searchTerms}
+default: false
